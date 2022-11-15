@@ -1,0 +1,38 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  color: #333;
+  background: #fff;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.input-text {
+  margin: 5px;
+}
+
+.user-list {
+  list-style: none;
+}
+
+.user-detail {
+  margin-bottom: 10px;
+}
+
+.user-detail span {
+  margin-left: 5px;
+}
+
+.user-detail button {
+  margin-left: 5px;
+}
+
+.footer button {
+  margin-left: 10px;
+}
